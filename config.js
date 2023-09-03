@@ -6,15 +6,15 @@ const CONFIG = {
     Lạc vào tim anh lẻ loi
     Đằng sau chữ yêu đây là thương`,
     btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
+    title: 'Liệu Dương có nguyện để tớ vì cậu mà phấn đấu không 🥰',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
     btnYes: 'Thích lắm <33',
     btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
+    question: 'Trên thế giới hơn 7 tỉ người nhưng  <3',
     btnReply: 'Gửi cho bạn <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
     messDesc: 'Mình cùng nhau cố gắng nha.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/kietlight/Confess-Crush' //link mess của các bạn. VD: https://www.messenger.com/t/100045348251651
+    messLink: 'https://github.com/kietlight/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100046075869205
 }
